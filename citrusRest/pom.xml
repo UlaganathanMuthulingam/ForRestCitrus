@@ -15,7 +15,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
       <citrus.simulator.version>1.0.3</citrus.simulator.version>
     <spring.boot.version>1.5.10.RELEASE</spring.boot.version>
-    <testng.version>6.14.3</testng.version>
+    <testng.version>7.7.0</testng.version>
   </properties>
 
   <dependencyManagement>
